@@ -1,5 +1,0 @@
-Pendeklarasian variable pada pemrograman golang ditandai dengan kata kunci var di belakang nama variable yang ingin dibuat diikuti dengan tipe datanya
-
-var nama string = "Rafli"
-
-sebenarnya tanpa perlu menuliskan tipe data, golang dapat mengetahui tipe data variable tersebut.
